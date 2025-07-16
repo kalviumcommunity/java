@@ -4,3 +4,4 @@ public class Main {
         System.out.println("Session 1: Project Initialization and orientation complete");
     }
 }
+//assignment: Complete the main method to print a welcome message and a session completion message.
